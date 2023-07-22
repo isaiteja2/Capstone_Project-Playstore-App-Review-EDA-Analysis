@@ -1,4 +1,5 @@
 # Capstone_Project-Playstore-App-Review-EDA-Analysis
+## Verified Project: [Credentials](https://certificates.almabetter.com/en/verify/72318421398252)
 ## Project Type - EDA(Exploratory Data Analysis)
 ## Contribution - Team
 ## Team Member 1 - Vadlamani Shivani
