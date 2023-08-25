@@ -4,6 +4,9 @@
 ## Contribution - Team
 ## Team Member 1 - Vadlamani Shivani
 ## Team Member 2 - Saiteja Ch
+
+## Tableau Dashboard Link - https://public.tableau.com/views/PlayStoreAppReviewAnalysis_16929861201260/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Project summary
 The Google Play Store and formerly the Android Market, is a digital distribution service operated and developed by Google. It serves as the official app store for certified devices running on the Android operating system and its derivatives, as well as ChromeOS, allowing users to browse and download applications developed with the Android software development kit (SDK) and published through Google. Google Play has also served as a digital media store, offering games, music, books, movies, and television programs.
 
